@@ -4,8 +4,6 @@
 
 An independent field study examining how the COVID-19 pandemic affected the income, expenses, health, and day-to-day livelihoods of rickshaw pullers in Dhaka, Bangladesh.
 
-![Original paper preview](assets/paper-preview.png)
-
 ## Research question
 
 > To what extent has COVID-19 impacted the livelihood of rickshaw-pullers in Dhaka, Bangladesh?
@@ -60,8 +58,6 @@ The repository includes cleaned transcriptions of selected tables from the paper
 .
 ├── README.md
 ├── NOTICE.md
-├── assets/
-│   └── paper-preview.png
 ├── data/
 │   ├── interview-summary.csv
 │   └── monthly-income-expenses.csv
