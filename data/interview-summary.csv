@@ -1,0 +1,13 @@
+metric,before_covid,after_covid,frequency,percent
+Daily income range 1 (BDT),300-450,280-320,21,23.3
+Daily income range 2 (BDT),500-750,430-680,47,52.2
+Daily income range 3 (BDT),800-1000,700-820,22,24.4
+Monthly income range 1 (BDT),4000-5000,3500-3800,33,36.7
+Monthly income range 2 (BDT),5500-6500,4200-5300,45,50.0
+Monthly income range 3 (BDT),7000-8000,5500-6800,12,13.3
+Daily expense range 1 (BDT),50-100,30-70,33,36.7
+Daily expense range 2 (BDT),150-200,80-120,35,38.9
+Daily expense range 3 (BDT),250-300,150-200,22,24.4
+Monthly expense range 1 (BDT),1500-2500,1100-1500,27,30.0
+Monthly expense range 2 (BDT),3000-4000,1800-2400,46,51.1
+Monthly expense range 3 (BDT),4500-5500,2500-3200,17,18.9
